@@ -1,0 +1,7 @@
+<configs>
+  <append xpath="/recipes">  
+    <recipe name="resourceAnimalFat" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable">
+    	<ingredient name="foodRottingFlesh" count="3"/>
+    </recipe>
+  </append>  
+</configs>
