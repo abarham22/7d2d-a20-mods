@@ -1,0 +1,10 @@
+<?xml version="0.5" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Meat Spoiling" />
+		<Description value="Leave meat out on the workbench to spoil" />
+		<Author value="n3cr0"/>
+		<Version value="A20_1.0" />
+		<Website value="" />
+	</ModInfo>
+</xml>
